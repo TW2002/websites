@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MBN", "MBN", "{179AC3C8-DEE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Editor", "Source\MBN\Editor\Editor.csproj", "{D3913BA9-1159-42E6-876A-D5DAC2EA8BF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeWars", "Source\MBN\TradeWars\TradeWars.csproj", "{CCE328BD-6BEE-4151-B30D-4597AA9EAE99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{D3913BA9-1159-42E6-876A-D5DAC2EA8BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3913BA9-1159-42E6-876A-D5DAC2EA8BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3913BA9-1159-42E6-876A-D5DAC2EA8BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE328BD-6BEE-4151-B30D-4597AA9EAE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE328BD-6BEE-4151-B30D-4597AA9EAE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE328BD-6BEE-4151-B30D-4597AA9EAE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE328BD-6BEE-4151-B30D-4597AA9EAE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D3913BA9-1159-42E6-876A-D5DAC2EA8BF4} = {179AC3C8-DEE6-4A6E-B4A5-B9EA99290248}
+		{CCE328BD-6BEE-4151-B30D-4597AA9EAE99} = {179AC3C8-DEE6-4A6E-B4A5-B9EA99290248}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5085B777-B7BC-4D22-8298-454A95E6BC24}
